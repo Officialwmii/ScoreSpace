@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Azure_DO/ScoreSpace2023/Content/Developers/wmiip/Collections/Blueprints/BP_PlayerController.uasset",
+				"C:/Azure_DO/ScoreSpace2023/Content/Developers/wmiip/Collections/Blueprints/BP_PlayerActor.uasset",
+				"C:/Azure_DO/ScoreSpace2023/Content/Developers/wmiip/Collections/Blueprints/WayneTestGameMode.uasset",
+				"C:/Azure_DO/ScoreSpace2023/Content/Developers/wmiip/Collections/Blueprints/BP_PlayerPawn.uasset",
+				"C:/Azure_DO/ScoreSpace2023/Content/Developers/wmiip/Collections/Levels/WayneTestingMap.umap",
 				"D:/_Dev/repo/ScoreSpace2023/ScoreSpace2023/Content/ScoreSpace23/Maps/Default_Map.umap",
 				"D:/_Dev/repo/ScoreSpace2023/ScoreSpace2023/Content/ScoreSpace23/Core/GameModes/BP_DefaultGamemode.uasset"
 			]
